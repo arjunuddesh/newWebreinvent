@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newWebreinvent/static/css/main.745fc426.css",
+    "main.js": "/newWebreinvent/static/js/main.14a9c827.js",
+    "static/js/453.a6a97343.chunk.js": "/newWebreinvent/static/js/453.a6a97343.chunk.js",
+    "static/media/logo-icon.svg": "/newWebreinvent/static/media/logo-icon.da52997495ddb2a5e66c111b2dc148a1.svg",
+    "index.html": "/newWebreinvent/index.html",
+    "main.745fc426.css.map": "/newWebreinvent/static/css/main.745fc426.css.map",
+    "main.14a9c827.js.map": "/newWebreinvent/static/js/main.14a9c827.js.map",
+    "453.a6a97343.chunk.js.map": "/newWebreinvent/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745fc426.css",
+    "static/js/main.14a9c827.js"
+  ]
+}
